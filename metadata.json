@@ -1,0 +1,5 @@
+{
+  "name": "Standalone Timetable Generator",
+  "description": "An offline-first, automatic timetable generation system that runs entirely in the browser using local storage. It allows for data management, constraint setting, and timetable generation, with full data backup and restore capabilities.",
+  "requestFramePermissions": []
+}
